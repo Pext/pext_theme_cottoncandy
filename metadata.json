@@ -1,11 +1,11 @@
 {
-  "name": "cottoncandy",
+  "id": "pext.theme.cottoncandy",
+  "name": "Cotton Candy",
   "developer": "Emily Lau",
   "description": "A pink theme for Pext.",
   "homepage": "https://pext.hackerchick.me/",
   "license": "CC-BY-3.0",
   "git_urls": [
-    "https://github.com/Pext/pext_theme_cottoncandy",
-    "https://notabug.org/Pext/pext_theme_cottoncandy"
+    "https://github.com/Pext/pext_theme_cottoncandy"
   ]
 }
